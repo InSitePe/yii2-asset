@@ -1,0 +1,30 @@
+{
+    "name": "upch/yii2-assets",
+    "description": "Assets de librerias externas",
+    "type": "library",
+    "authors": [
+        {
+            "name": "José Nolberto Vilchez Moreno",
+            "email": "jnolbertovm@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "bower-asset/fontawesome": "^4.7",
+        "bower-asset/pace": "^1.0",
+        "bower-asset/popper.js": "^1.12",
+        "bower-asset/perfect-scrollbar": "^0.8.1",
+        "bower-asset/bootstrap": "^3.3"
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "upch\\asset\\": ""
+        }
+    }
+}
