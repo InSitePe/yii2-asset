@@ -2,7 +2,7 @@
     "name": "insite/yii2-asset",
     "description": "Assets de librerias externas",
     "type": "library",
-    "licence": "LGPL",
+    "license": "LGPL",
     "authors": [
         {
             "name": "José Nolberto Vilchez Moreno",
