@@ -1,5 +1,5 @@
 {
-    "name": "upch/yii2-asset",
+    "name": "insite/yii2-asset",
     "description": "Assets de librerias externas",
     "type": "library",
     "authors": [
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "upch\\asset\\": ""
+            "insite\\asset\\": ""
         }
     }
 }
