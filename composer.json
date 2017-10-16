@@ -2,6 +2,7 @@
     "name": "insite/yii2-asset",
     "description": "Assets de librerias externas",
     "type": "library",
+    "licence": "LGPL",
     "authors": [
         {
             "name": "José Nolberto Vilchez Moreno",
@@ -20,6 +21,9 @@
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
             "bower-asset-library": "vendor/bower"
+        },
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
         }
     },
     "autoload": {
