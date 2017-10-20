@@ -22,5 +22,9 @@ class Bootstrap4 extends \Yii\web\AssetBundle {
     public $js = [
         'js/bootstrap.min.js'
     ];
+    
+    public $depends = [
+        'insite\asset\Tether'
+    ];
 
 }
