@@ -4,7 +4,7 @@
  * FontAwesome assetBundle
  */
 
-namespace upch\asset;
+namespace insite\asset;
 
 class FontAwesome extends \Yii\web\AssetBundle {
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace upch\asset;
+namespace insite\asset;
 
 class Pace extends \Yii\web\AssetBundle {
 

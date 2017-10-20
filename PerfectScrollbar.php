@@ -1,6 +1,6 @@
 <?php
 
-namespace upch\asset;
+namespace insite\asset;
 
 class PerfectScrollbar extends \Yii\web\AssetBundle {
 

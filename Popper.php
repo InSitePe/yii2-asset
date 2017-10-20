@@ -1,6 +1,6 @@
 <?php
 
-namespace upch\asset;
+namespace insite\asset;
 
 class Popper extends \Yii\web\AssetBundle {
 
