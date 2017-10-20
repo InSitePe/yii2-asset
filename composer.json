@@ -15,7 +15,7 @@
         "bower-asset/pace": "^1.0",
         "bower-asset/popper.js": "^1.12",
         "bower-asset/perfect-scrollbar": "^0.8.1",
-        "bower-asset/bootstrap": "^3.3"
+        "twbs/bootstrap": "4.0.0-alpha.6"
     },
     "extra": {
         "asset-installer-paths": {
