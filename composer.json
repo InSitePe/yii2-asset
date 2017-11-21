@@ -17,11 +17,11 @@
         "bower-asset/perfect-scrollbar": "^0.8.1",
         "bower-asset/tether": "^1.4",
         "bower-asset/noty": "^3.1",
-        "bower-asset/bootstrap": "4.0",
         "bower-asset/sweetalert2": "dev-master",
         "bower-asset/jquery-validation": "1.17.0",
         "bower-asset/bootstrap-table": "dev-master",
-        "bower-asset/select2": "4.0.5"
+        "bower-asset/select2": "4.0.5",
+        "twbs/bootstrap": "4.0.0-beta.2"
     },
     "extra": {
         "asset-installer-paths": {
