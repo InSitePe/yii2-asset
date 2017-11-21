@@ -16,7 +16,8 @@
         "bower-asset/popper.js": "^1.12",
         "bower-asset/perfect-scrollbar": "^0.8.1",
         "twbs/bootstrap": "4.0.0-alpha.6",
-        "bower-asset/tether": "^1.4"
+        "bower-asset/tether": "^1.4",
+        "bower-asset/noty": "^3.1"
     },
     "extra": {
         "asset-installer-paths": {
