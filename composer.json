@@ -21,7 +21,8 @@
         "bower-asset/jquery-validation": "1.17.0",
         "bower-asset/bootstrap-table": "dev-master",
         "bower-asset/select2": "4.0.5",
-        "twbs/bootstrap": "4.0.0-beta.2"
+        "twbs/bootstrap": "4.0.0-beta.2",
+        "bower-asset/bootstrap-datepicker": "dev-master"
     },
     "extra": {
         "asset-installer-paths": {
